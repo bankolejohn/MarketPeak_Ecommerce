@@ -128,27 +128,30 @@ git push origin development
 
 ---
 
-## **📝 Submission Guidelines**
+## Screenshots
 
-### **1. Documentation**
-Include in `README.md`:
-- Deployment steps  
-- Screenshots of live site  
-- Challenges faced  
+<img width="871" alt="Snipaste_2025-07-07_01-40-58" src="https://github.com/user-attachments/assets/3bda0a1b-87d0-4a09-a3b6-f86d3e11d3ce" />
 
-### **2. Repository Contents**
-```
-MarketPeak_Ecommerce/
-├── index.html          # Homepage
-├── products/           # Product listings
-├── css/                # Stylesheets
-├── img/                # Product images
-└── README.md           # Project documentation
-```
+<img width="535" alt="Snipaste_2025-07-07_01-51-21" src="https://github.com/user-attachments/assets/690b2415-d9dc-4af4-9dc5-c60c25eb50d8" />
 
-### **3. Submission**
-1. Push final code to GitHub  
-2. Share repo link on darey.io  
+
+
+<img width="424" alt="Snipaste_2025-07-07_10-11-50" src="https://github.com/user-attachments/assets/2309681f-4e7d-4839-97ee-ee52d26513f4" />
+
+
+<img width="1380" alt="Snipaste_2025-07-07_10-16-33" src="https://github.com/user-attachments/assets/51a5ee05-550d-4025-993e-4957a981c29c" />
+
+
+<img width="558" alt="Snipaste_2025-07-07_10-18-18" src="https://github.com/user-attachments/assets/1c58174d-4fa5-4dc2-b7e1-043ce50ae310" />
+
+
+<img width="624" alt="Snipaste_2025-07-07_10-21-18" src="https://github.com/user-attachments/assets/15af99c3-1b01-4c85-a71e-026a4aedf60f" />
+
+
+<img width="595" alt="Snipaste_2025-07-07_10-22-30" src="https://github.com/user-attachments/assets/c318aa81-85be-44eb-b6b4-4525da0a7bf7" />
+
+
+<img width="560" alt="Snipaste_2025-07-07_10-24-49" src="https://github.com/user-attachments/assets/488cd622-170a-48a7-a1a4-5a22028f0b85" />
 
 ---
 
