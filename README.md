@@ -158,3 +158,5 @@ MarketPeak_Ecommerce/
 # Verify deployment
 curl -I http://localhost
 ```
+
+update for development branch
